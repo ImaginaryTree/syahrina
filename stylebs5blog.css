@@ -1,0 +1,58 @@
+html {
+  position: relative;
+}
+
+.logo{
+  border-radius: 50%;
+}
+
+body {
+  height: 500px;
+}
+
+.jumbotron img {
+  box-shadow: 5px 5px 10px #000;
+}
+
+.jumbotron {
+  height: 630px;
+  background-image: url("img/bgteknologi.jpeg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -30px;
+  margin-top: -30px;
+  padding-top: 8rem;
+}
+
+.display-4 {
+  text-align: center;
+  color: white;
+  padding-top: 2cm;
+}
+
+.lead {
+  text-align: center;
+  color: white;
+}
+
+.abcde {
+  margin-top: 50px;
+}
+
+.asdjkl {
+  padding-top: 70px;
+  margin-top: -50px;
+}
+
+hr {
+  width: 200px;
+  border-top: 3px solid rgb(7, 7, 7);
+}
+
+.section {
+  padding-top: 10rem;
+}
+
+footer {
+  background-color: rgb(178, 0, 40);
+}
